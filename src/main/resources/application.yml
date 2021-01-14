@@ -1,0 +1,5 @@
+external:
+  ribbon:
+    listOfServers: localhost:8081, localhost:9999
+    MaxAutoRetries: 0
+    MaxAutoRetriesNextServer: 1
